@@ -1,0 +1,10 @@
+C:\Users\Zeki\source\repos\AdoNetExampleProject\AdoNetExampleProject\bin\Debug\AdoNetExampleProject.exe.config
+C:\Users\Zeki\source\repos\AdoNetExampleProject\AdoNetExampleProject\bin\Debug\AdoNetExampleProject.exe
+C:\Users\Zeki\source\repos\AdoNetExampleProject\AdoNetExampleProject\bin\Debug\AdoNetExampleProject.pdb
+C:\Users\Zeki\source\repos\AdoNetExampleProject\AdoNetExampleProject\obj\Debug\AdoNetExampleProject.csprojAssemblyReference.cache
+C:\Users\Zeki\source\repos\AdoNetExampleProject\AdoNetExampleProject\obj\Debug\AdoNetExampleProject.Form1.resources
+C:\Users\Zeki\source\repos\AdoNetExampleProject\AdoNetExampleProject\obj\Debug\AdoNetExampleProject.Properties.Resources.resources
+C:\Users\Zeki\source\repos\AdoNetExampleProject\AdoNetExampleProject\obj\Debug\AdoNetExampleProject.csproj.GenerateResource.cache
+C:\Users\Zeki\source\repos\AdoNetExampleProject\AdoNetExampleProject\obj\Debug\AdoNetExampleProject.csproj.CoreCompileInputs.cache
+C:\Users\Zeki\source\repos\AdoNetExampleProject\AdoNetExampleProject\obj\Debug\AdoNetExampleProject.exe
+C:\Users\Zeki\source\repos\AdoNetExampleProject\AdoNetExampleProject\obj\Debug\AdoNetExampleProject.pdb
